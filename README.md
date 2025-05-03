@@ -1,4 +1,4 @@
-# 🧾 Persona Manager App
+# 🧾 Contacts Manager App
 
 A simple React application that allows users to manage a list of people and export the data as an XML file. Built with TypeScript, Tailwind CSS, and localStorage for data persistence.
 
