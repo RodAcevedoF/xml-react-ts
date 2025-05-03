@@ -52,14 +52,14 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to see the a
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
-<personas>
-  <persona>
-    <nombre>John Doe</nombre>
-    <edad>30</edad>
-    <ocupacion>Engineer</ocupacion>
-    <genero>Masculino</genero>
-  </persona>
-</personas>
+<contacts>
+  <contact>
+    <name>John Doe</name>
+    <age>30</age>
+    <job>Engineer</job>
+    <gender>Masculino</gender>
+  </contact>
+</contacts>
 ```
 
 ## 📌 Notes
